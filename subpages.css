@@ -127,6 +127,7 @@ td:nth-child(1) {
 .main img{
    margin-left:auto ;
    margin-right:auto ;
+   float: right;
 }
 
 
